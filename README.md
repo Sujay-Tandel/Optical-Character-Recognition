@@ -8,10 +8,3 @@ Now the question is how well it performs.It performs pretty good if the given ca
 here is an outcome 
 <img src="https://github.com/Sujay-Tandel/Optical-Character-Recognition/blob/master/media/output.jpg" /><br/>
 some of the errors here are due to absence of letters in the training set like absence of the letter 'O'.others are due to different apperences of training set images which can be fixed due by some data augmentation 
-
-<h2>Note</h2>
-please feel free the raise any issue. i am also open to suggestions to improve this project and pull requests
-
-
-<h2>Credits</h2>
-this repository is inspired from a medium post.read more about it <a href ="https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710" target="_blank">here</a>. you can also download the dataset from this post or clone this repository.
